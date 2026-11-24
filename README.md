@@ -53,9 +53,8 @@
 
 ### 🤝 Connect With Me
 
-- LinkedIn: Your LinkedIn URL
-- Portfolio: Your Portfolio URL
-- Email: Your Professional Email
+- LinkedIn: linkedin.com/in/sanjivram-s-268078332
+- Email: sanjivramram5@gmail.com
 
 ---
 
